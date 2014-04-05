@@ -1,5 +1,5 @@
 ﻿// -------------------------------------------------------------------------------------------------
-// wiki-browser.cs 0.1
+// wiki-browser.cs 0.0.1
 //
 // KSP wiki reader plugin.
 // Copyright (C) 2014 Iván Atienza
